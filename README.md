@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+<h2>👨‍💻 Data analyst:</h2>
 <!--
 **Niniherd/Niniherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
