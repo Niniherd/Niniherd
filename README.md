@@ -1,9 +1,5 @@
  <h1 style="color: blue;">Nini Hernández</h1>
-<img width="2409" height="1251" alt="Banner  Niniherd2" src="https://github.com/user-attachments/assets/f6cb9e09-73e4-4f20-9c64-2fe681f19fc8" />
-
-
-
-
+<img width="1200" height="623" alt="Banner  Niniherd3" src="https://github.com/user-attachments/assets/dde8c319-1c88-4697-b88d-0826ccbb6496" />
 <h2>👨‍💻 Data analyst & finance management specialist.</h2>
 <section class="about-me">
   <h2>About Me</h2>
@@ -14,6 +10,20 @@
     <strong>My work bridges finance and data, ensuring insights are not just understood, but acted upon.</strong>
   </p>
 </section>
+
+## 🌍 Languages
+- English (Professional)  
+- Spanish (Native)  
+
+## 🎯 Expertise
+- Management Skills  
+- Data Visualization  
+- Critical Thinking  
+
+## 🗣️ Communication & Leadership
+- Communication  
+- Organizations  
+- Leadership  
 
 
 **Niniherd/Niniherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
