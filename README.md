@@ -1,6 +1,6 @@
  <h1 style="color: blue;">Nini Hernández</h1>
+<img width="2000" height="1125" alt="Banner Niniherd" src="https://github.com/user-attachments/assets/c79b359f-9403-4b11-8bba-2f4f98c6022a" />
 
-<img width="2500" height="1280" alt="Banner para YouTube - Niniherd" src="https://github.com/user-attachments/assets/9b0b1879-621b-4b42-aaee-8430085f3f73" />
 
 
 <h2>👨‍💻 Data analyst & finance management specialist.</h2>
