@@ -1,5 +1,6 @@
  <h1 style="color: blue;">Nini Hernández</h1>
-<img width="2000" height="1125" alt="Banner Niniherd" src="https://github.com/user-attachments/assets/c79b359f-9403-4b11-8bba-2f4f98c6022a" />
+<img width="2409" height="1251" alt="Banner  Niniherd2" src="https://github.com/user-attachments/assets/f6cb9e09-73e4-4f20-9c64-2fe681f19fc8" />
+
 
 
 
